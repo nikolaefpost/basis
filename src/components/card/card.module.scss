@@ -1,0 +1,7 @@
+@import "src/styles/colors";
+@import "src/styles/mixins";
+
+.card{
+  height: 300px;
+  border: 1px solid $accent;
+}
